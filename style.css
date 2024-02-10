@@ -459,7 +459,7 @@ header i {
   .header-logo img {
     width: 220px;
     height: 220px;
-    margin-top: 46px;
+    margin-top: 15px;
     margin-left: 0;
   }
   .header-button {
@@ -469,7 +469,7 @@ header i {
     min-height: 60vh;
   }
   .hero h1 {
-    margin-bottom: 70px;
+    margin-bottom: 50px;
     font-size: 34px;
     padding: 0 14px;
     width: 100%;
