@@ -1,6 +1,6 @@
-## Santiago Piscinas - Landing Page Freelance 🌊
+## Barbearia FW - Landing Page Freelance ✂️
 
-Landing Page da empresa Santiago Piscinas.
+Landing Page da Barbearia FW.
 
 ### Tecnologias Utilizadas
 
