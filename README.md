@@ -11,6 +11,6 @@ Landing Page da Barbearia FW.
 </div><br/>
 
 <div style="display: flex"><br/>
-<img align="center" alt="barbeariafw1"src="https://github.com/muriloalvesx/LexWeb/assets/153781890/404598c4-5edd-4947-9a40-647f5775471b" width="413px"/>
+<img align="center"  alt="barbeariafw1"src="https://github.com/muriloalvesx/LexWeb/assets/153781890/404598c4-5edd-4947-9a40-647f5775471b" width="413px"/>
 <img align="center" alt="barbeariafw2"src="https://github.com/muriloalvesx/LexWeb/assets/153781890/d1010070-48b3-42ad-9450-2bebed0e5269" width="405px"/>
 </div><br/>
